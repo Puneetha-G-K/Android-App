@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">surya-soft</string>
+    <string name="action_settings">Settings</string>
+    <string name="email_help">Enter your email address</string>
+    <string name="login">Login</string>
+    <string name="invalid_email">Email address is invalid</string>
+</resources>
